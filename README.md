@@ -1,4 +1,3 @@
-# E-Commerce-Orders-Data-Cleaning-Transformation
 # 🛒 E-Commerce Orders: Data Cleaning & Transformation
 
 An end-to-end data analysis project on ~10,000 e-commerce orders (US, 2022–2023). 
