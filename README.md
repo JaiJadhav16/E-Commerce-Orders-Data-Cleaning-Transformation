@@ -68,21 +68,6 @@ An interactive dashboard with KPI cards, a donut chart, a stacked area chart, a 
 
 `Python` · `Pandas` · `Matplotlib` · `Seaborn` · `MySQL` · `Power BI` · `Jupyter Notebook`
 
-## ▶️ How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install pandas matplotlib seaborn jupyter
-   ```
-3. Run `project.ipynb` to generate `new_order.csv`.
-4. Import `new_order.csv` into MySQL (database `new_order`) and run `question.sql`.
-5. Run `graphical_representation.ipynb` for the charts.
-6. Open `Dashboard.pbix` in Power BI Desktop.
-
 ## 💡 Key Learnings
 
 - Cleaning messy categorical values and placeholder strings
